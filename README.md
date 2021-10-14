@@ -1,4 +1,4 @@
-<h1>Desafio 2 da codelandia</h1>
-<p>Praticando Flexbox</p>
+<h1>Projeto Grid-Layout (origamid)</h1>
+<p>Praticando grid-layout</p>
 
-https://lucasantos-s.github.io/codelandia-desafio-2/
+https://lucasantos-s.github.io/Grid-layout/
