@@ -188,6 +188,10 @@ img {
     .content {
         grid-template-columns: auto;
     }
+
+    .caracteristicas {
+        margin: 0 auto;
+    }
 }
 
 .col-wide{
